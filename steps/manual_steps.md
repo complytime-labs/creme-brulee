@@ -20,7 +20,7 @@
 
 # ComplyTime GitHub Skills Discovery Manual Steps
 
-> [Prerequisites](https://github.com/complytime/creme-brulee/blob/main/README.md#prerequisites) must be completed prior to attempting the ComplyTime Skills Discovery 
+> [Prerequisites](https://github.com/complytime-labs/creme-brulee/blob/main/README.md#prerequisites) must be completed prior to attempting the ComplyTime Skills Discovery 
 
 Welcome to the ComplyTime learning course\! This guide will help you navigate the course, which is built on GitHub Skills and uses automated workflows to set up your personalized workspace. You'll use GitHub Issues to keep track of your notes as you progress.
 
@@ -67,7 +67,7 @@ Document your notes in a GitHub issue like [this](https://docs.github.com/en/iss
 
 > 🎯 **Why this matters:** Taking notes in an issue will help with comfortability using Git and practicing with Markdown. 
 
-As you go through the documentation, it's highly recommended that you take detailed notes. You'll be required to open a GitHub issue for **Step 2:** Deep dive into oscal-content. Your personal workspace, created by the automated workflows, allows you to use GitHub Issues for taking notes. An example issue can be reviewed [here](https://github.com/complytime/creme-brulee/issues/7). 
+As you go through the documentation, it's highly recommended that you take detailed notes. You'll be required to open a GitHub issue for **Step 2:** Deep dive into oscal-content. Your personal workspace, created by the automated workflows, allows you to use GitHub Issues for taking notes. An example issue can be reviewed [here](https://github.com/complytime-labs/creme-brulee/issues/7). 
 
 
 Refer to [this example](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart) for additional guidance on how to create an issue.
@@ -146,11 +146,11 @@ Follow the [help guide](https://github.com/hbraswelrh/creme-brulee/blob/main/doc
 1. **Create a New Branch**: In your copy of the learning course, create a new branch named `learn-complytime/step-2`. 
 2. **Switch Branches**: Switch to the `learn-complytime/step-2` branch. This is where you'll start working with Git and Markdown.  
 3. **Navigate and Review**: Go to the `markdown/` folder and review its contents. You'll find catalogs, profiles, and component definitions that were initialized by `complyscribe`.  
-   * **Editing Example**: The in-depth walkthrough in the [**manual steps**](https://github.com/complytime/creme-brulee/blob/main/steps/manual_steps.md) provides an example of editing Markdown in the `markdown/component-definitions/My-Test-Component/My-Test-Component/rhel10-anssi-enhanced/r1/r1.md` file. Use this as a guide to make changes to the control implementations in the Component Definitions. **Directions are hidden until you begin editing the Markdown file.**  
+   * **Editing Example**: The in-depth walkthrough in the [**manual steps**](https://github.com/complytime-labs/creme-brulee/blob/main/steps/manual_steps.md) provides an example of editing Markdown in the `markdown/component-definitions/My-Test-Component/My-Test-Component/rhel10-anssi-enhanced/r1/r1.md` file. Use this as a guide to make changes to the control implementations in the Component Definitions. **Directions are hidden until you begin editing the Markdown file.**  
 4. **Commit Your Changes**: Commit your changes to your `learn-complytime/step-2` branch. You can make several commits as you work.  
 5. **Open a Pull Request**: Open a Pull Request and update its description to clearly explain the changes you've made in the Markdown files.  
 6. **Submit Your Work**: Copy the link to your Pull Request and submit it in the self-assessment.  
-7. **Keep Practicing\!**: There's no limit to how many times you can retry this exercise. Simply follow the steps in the [**manual steps**](https://github.com/complytime/creme-brulee/blob/main/steps/manual_steps.md) again. For additional help, refer to the [**course layout**](https://github.com/hbraswelrh/creme-brulee/blob/main/steps/course_layout.md).
+7. **Keep Practicing\!**: There's no limit to how many times you can retry this exercise. Simply follow the steps in the [**manual steps**](https://github.com/complytime-labs/creme-brulee/blob/main/steps/manual_steps.md) again. For additional help, refer to the [**course layout**](https://github.com/hbraswelrh/creme-brulee/blob/main/steps/course_layout.md).
 
 ---
 

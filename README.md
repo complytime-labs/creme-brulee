@@ -38,11 +38,11 @@ _Learn to use ComplyTime organization projects and tools._
 
 ### :vertical_traffic_light: Start Here
 
-  - Review the [GLOSSARY.md](https://github.com/complytime/creme-brulee/blob/main/docs/GLOSSARY.md) for relevant terms that will be used throughout course content.
-  - The [GEMINI.md](https://github.com/complytime/creme-brulee/blob/main/docs/GEMINI.md) file is a suggested resource for understanding the repository contents of [complyscribe](https://github.com/complytime/complyscribe), [complyctl](https://github.com/complytime/complyctl), and [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content/tree/master), but its use is not required for course completion.
+  - Review the [GLOSSARY.md](https://github.com/complytime-labs/creme-brulee/blob/main/docs/GLOSSARY.md) for relevant terms that will be used throughout course content.
+  - The [GEMINI.md](https://github.com/complytime-labs/creme-brulee/blob/main/docs/GEMINI.md) file is a suggested resource for understanding the repository contents of [complyscribe](https://github.com/complytime/complyscribe), [complyctl](https://github.com/complytime/complyctl), and [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content/tree/master), but its use is not required for course completion.
 
 
-> :hourglass: **How long?** This exercise is self-paced. The [manual_steps.md](https://github.com/complytime/creme-brulee/blob/main/steps/manual_steps.md#-reading-creme-brulee-course-documentation) can be leveraged to pace yourself, revisit subjects, and follow step-by-step examples. The automated ComplyTime Skills Discovery typically takes about **two hours** to finish. However, the actual time may vary depending on your **reading comprehension** and **level of interest**.
+> :hourglass: **How long?** This exercise is self-paced. The [manual_steps.md](https://github.com/complytime-labs/creme-brulee/blob/main/steps/manual_steps.md#-reading-creme-brulee-course-documentation) can be leveraged to pace yourself, revisit subjects, and follow step-by-step examples. The automated ComplyTime Skills Discovery typically takes about **two hours** to finish. However, the actual time may vary depending on your **reading comprehension** and **level of interest**.
 
 **In this exercise, you will:**
 1. Learn about the relevant repositories in the ComplyTime organization.
@@ -60,7 +60,7 @@ Simply copy the exercise to your account, then give your favorite `creme-brulee`
 <summary>Having trouble? 🤷</summary><br/>
 
 
-- Review the [manual_steps.md](https://github.com/complytime/creme-brulee/blob/main/steps/manual_steps.md#-reading-creme-brulee-course-documentation) and reach out in the Slack channel [#learn-complytime](https://redhat.enterprise.slack.com/archives/C093B45QGQM)
+- Review the [manual_steps.md](https://github.com/complytime-labs/creme-brulee/blob/main/steps/manual_steps.md#-reading-creme-brulee-course-documentation) and reach out in the Slack channel [#learn-complytime](https://redhat.enterprise.slack.com/archives/C093B45QGQM)
 If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
 
 - An issue should be opened that looks like this:

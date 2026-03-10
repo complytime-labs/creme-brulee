@@ -112,7 +112,7 @@ jobs:
       - name: Create comment - complete the self-assessment quiz
         run: |
           gh issue comment "$ISSUE_URL" \
-            --body "Complete the [self-assessment](https://docs.google.com/forms/d/e/1FAIpQLScIXyhvuLdCcKqBewFGggM7I38W7JJ-phbBUIdhJCw0Puz_cg/viewform?usp=header). This should be after you have completed [Step 2: Practice Communicating using Markdown and Git.](https://github.com/complytime/creme-brulee/blob/main/.github/steps/2-step.md)."
+            --body "Complete the [self-assessment](https://docs.google.com/forms/d/e/1FAIpQLScIXyhvuLdCcKqBewFGggM7I38W7JJ-phbBUIdhJCw0Puz_cg/viewform?usp=header). This should be after you have completed [Step 2: Practice Communicating using Markdown and Git.](https://github.com/complytime-labs/creme-brulee/blob/main/.github/steps/2-step.md)."
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

@@ -20,7 +20,7 @@ Ensure you've reviewed these foundational resources for your success in the cour
 
 Document your notes in a GitHub issue like [this](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart). Duplicate the tab in your browser to take notes. Ensure you select "Learning course issue template" when opening your issue.
 
-> Reference the [manual_steps.md](https://github.com/complytime/creme-brulee/blob/main/steps/manual_steps.md#-reading-creme-brulee-course-documentation) for additional context on opening an issue to take notes. 
+> Reference the [manual_steps.md](https://github.com/complytime-labs/creme-brulee/blob/main/steps/manual_steps.md#-reading-creme-brulee-course-documentation) for additional context on opening an issue to take notes. 
 
 ### **📝 Take the Self-Assessment**
 

@@ -4,9 +4,9 @@
 
 ## What you'll need
 
-After completing [**Step 1:** _Read the docs_](https://github.com/complytime/creme-brulee/blob/main/.github/steps/1-step.md) you'll need to copy the link to the exercise issue and include it in the Pull request.
+After completing [**Step 1:** _Read the docs_](https://github.com/complytime-labs/creme-brulee/blob/main/.github/steps/1-step.md) you'll need to copy the link to the exercise issue and include it in the Pull request.
 
-Follow the [help guide](https://github.com/complytime/creme-brulee/blob/main/docs/issue-help.md) for creating issues.
+Follow the [help guide](https://github.com/complytime-labs/creme-brulee/blob/main/docs/issue-help.md) for creating issues.
 
 ---
 
@@ -17,11 +17,11 @@ Follow the steps in the [**manual_steps.md**](https://github.com/hbraswelrh/crem
 1. **Create a New Branch**: In your copy of the learning course, create a new branch named `learn-complytime/step-2`. 
 2. **Switch Branches**: Switch to the `learn-complytime/step-2` branch. This is where you'll start working with Git and Markdown.  
 3. **Navigate and Review**: Go to the `markdown/` folder and review its contents. You'll find catalogs, profiles, and component definitions that were initialized by `complyscribe`.  
-   * **Editing Example**: The in-depth walkthrough in the  [**manual steps**](https://github.com/complytime/creme-brulee/blob/main/steps/manual_steps.md) provides an example of editing Markdown in the `markdown/component-definitions/My-Test-Component/My-Test-Component/rhel10-anssi-enhanced/r1/r1.md` file. Use this as a guide to make changes to the control implementations in the Component Definitions. **Directions are hidden until you begin editing the Markdown file.**  
+   * **Editing Example**: The in-depth walkthrough in the  [**manual steps**](https://github.com/complytime-labs/creme-brulee/blob/main/steps/manual_steps.md) provides an example of editing Markdown in the `markdown/component-definitions/My-Test-Component/My-Test-Component/rhel10-anssi-enhanced/r1/r1.md` file. Use this as a guide to make changes to the control implementations in the Component Definitions. **Directions are hidden until you begin editing the Markdown file.**  
 4. **Commit Your Changes**: Commit your changes to your `learn-complytime/step-2` branch. You can make several commits as you work.  
 5. **Open a Pull Request**: Open a Pull Request and update its description to clearly explain the changes you've made in the Markdown files.  
 6. **Submit Your Work**: Copy the link to your Pull Request and submit it in the self-assessment.  
-7. **Keep Practicing\!**: There's no limit to how many times you can retry this exercise. Simply follow the steps in the [**manual steps**](https://github.com/complytime/creme-brulee/blob/main/steps/manual_steps.md) again.
+7. **Keep Practicing\!**: There's no limit to how many times you can retry this exercise. Simply follow the steps in the [**manual steps**](https://github.com/complytime-labs/creme-brulee/blob/main/steps/manual_steps.md) again.
 
 ---
 
